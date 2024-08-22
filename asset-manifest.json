@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/randomquotemachine/static/css/main.1f0f7d8d.css",
-    "main.js": "/randomquotemachine/static/js/main.115a5975.js",
+    "main.css": "/randomquotemachine/static/css/main.cef50e43.css",
+    "main.js": "/randomquotemachine/static/js/main.c4eab4a1.js",
     "static/js/453.08bf642a.chunk.js": "/randomquotemachine/static/js/453.08bf642a.chunk.js",
     "static/media/Twitter-X.png": "/randomquotemachine/static/media/Twitter-X.d3ba47f085be8e460cd8.png",
     "index.html": "/randomquotemachine/index.html",
-    "main.1f0f7d8d.css.map": "/randomquotemachine/static/css/main.1f0f7d8d.css.map",
-    "main.115a5975.js.map": "/randomquotemachine/static/js/main.115a5975.js.map",
+    "main.cef50e43.css.map": "/randomquotemachine/static/css/main.cef50e43.css.map",
+    "main.c4eab4a1.js.map": "/randomquotemachine/static/js/main.c4eab4a1.js.map",
     "453.08bf642a.chunk.js.map": "/randomquotemachine/static/js/453.08bf642a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f0f7d8d.css",
-    "static/js/main.115a5975.js"
+    "static/css/main.cef50e43.css",
+    "static/js/main.c4eab4a1.js"
   ]
 }
